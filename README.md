@@ -1,5 +1,5 @@
 # ifDEEPre
-deep learning enables interpretable and fast predictions of enzyme commission numbers
+large protein language-based deep learning enables interpretable and fast predictions of enzyme commission numbers
 
 
 ## Online Version - ifDEEPre server
